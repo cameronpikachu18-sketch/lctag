@@ -77,7 +77,7 @@ def main():
             </head>
             <body style="font-family: 'Inter', sans-serif; background: linear-gradient(to bottom, #004d00, #00cc00); color: white; text-align: center; padding: 50px;">
                 <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-                    Wsp Broksie. This is a private backend!
+                    ayo 67. This is a backend
                 </h1>
                 <p style="font-size: 18px;">LC Tag Backend Server Running Smoothly!</p>
                 <img src="https://aicdn.picsart.com/275c6ae1-73a4-4cee-b3f5-45ccfa4499ae.png" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
