@@ -79,7 +79,7 @@ def main():
                 <h1 style="color: #eedd82; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
                     Wsp Broksie. This is a private backend!
                 </h1>
-                <p style="font-size: 18px;">Christmas Tag Backend Server Running Smoothly!</p>
+                <p style="font-size: 18px;">LC Tag Backend Server Running Smoothly!</p>
                 <img src="https://aicdn.picsart.com/275c6ae1-73a4-4cee-b3f5-45ccfa4499ae.png" alt="if u see this text it dont work" style="max-width: 500px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; margin: 30px auto;">
                 <p style="font-size: 14px; opacity: 0.8;">Image loads when the server works!</p>
             </body>
@@ -198,23 +198,23 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/LCTAG</color>",
+        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/LCTAG</color>",
+        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/LCTAG</color>",
+        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/LCTAG</color>",
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO CHRISTMAS TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
-        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
+        "MOTD": "<color=#FFC0CB>WELCOME TO LC TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/LCTAG</color>",
+        "TOBAlreadyOwnCompTxt": "DISCORD.GG/LCTAG",
+        "TOBAlreadyOwnPurchaseBundle": "LC TAG",
+        "TOBDefCompTxt": "DISCORD.GG/LCTAG",
+        "TOBDefPurchaseBtnDefTxt": "LC TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "TOS_2024.09.20": "DISCORD.GG/CHRISTMASTAG",
+        "TOS_2024.09.20": "DISCORD.GG/LCTAG",
         "EnableTwoFactorAuth": False,
         "MaxLoginAttempts": 5,
         "SessionTimeoutMinutes": 30,
@@ -246,7 +246,7 @@ def titledata():
         "RegionPriority": ["US", "EU", "AS"],
         "EnableSpectatorMode": True,
         "TutorialEnabled": True,
-        "NewsFeedUrl": "https://discord.gg/CHRISTMASTAG",
+        "NewsFeedUrl": "https://discord.gg/LCTAG",
         "UpdateCheckInterval": 3600,
         "BackupInterval": 86400,
         "LogLevel": "INFO",
@@ -291,7 +291,7 @@ def titledata():
         "CustomSkinUploadLimit": 5,
         "ServerRestartIntervalHours": 24,
         "MaxReportCountPerDay": 5,
-        "BanAppealUrl": "https://discord.gg/CHRISTMASTAG",
+        "BanAppealUrl": "https://discord.gg/LCTAG",
         "EnableCrossplay": True,
         "DefaultFOV": 90,
         "MaxFOV": 120,
@@ -312,7 +312,7 @@ def titledata():
         "EnableVoiceModeration": True,
         "VoiceModerationThreshold": 0.9,
         "EnablePlayerFeedback": True,
-        "FeedbackSubmissionUrl": "https://discord.gg/CHRISTMASTAG/feedback"
+        "FeedbackSubmissionUrl": "https://discord.gg/LCTAG/feedback"
     }
     return jsonify(response_data)
 
